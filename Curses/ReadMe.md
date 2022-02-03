@@ -6,7 +6,5 @@ https://stepik.org/lesson/399104/step/10?auth=registration&unit=388195
 <br/>
 ![image](https://user-images.githubusercontent.com/91256838/152316123-7e676792-03f7-4bce-81d5-7e4b78444909.png)
 <br/>
-![image](https://user-images.githubusercontent.com/91256838/152316291-1029f48e-e5ac-41fb-9c80-7316a12be30e.png)
-<br/>
 ![image](https://user-images.githubusercontent.com/91256838/152316400-786dbb8a-e8ee-4b53-b79d-9bdeb08bf9de.png)
 
